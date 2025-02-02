@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine <br>🌱 I’m currently learning to sleep<br>💬 Ask me about pandas<br>⚡ Fun fact i am a panda
+🔭 I’m currently working on Machine Learning <br>🌱 I’m currently learning to sleep<br>💬 Ask me about pandas<br>⚡ Fun fact i am a panda
 
 
 # 💻 Tech Stack:
